@@ -5,4 +5,4 @@ Classification using the Car Evaluation dataset
 Regression using the Auto MPG dataset
 Both models are trained and evaluated with different configurations, and their performance is analyzed.
 
-The dataset used is the Auto-Mpg Data Dataset from the UCI Machine Learning Repository.
+The datasets used are the Auto-Mpg Data Dataset and Car Evaluation Dataset from the UCI Machine Learning Repository.
